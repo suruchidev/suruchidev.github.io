@@ -1,7 +1,7 @@
 
 #navbar {
 	width:300px;
-	margin-right:30px;
+	margin-left: 595px;
 
 }
 
@@ -14,12 +14,19 @@
 
 
  #bio {
- 	margin-top:100px;
+ 	margin-top:80px;
 	margin-left: 50px;
-	width:600px;
-	height:700px;
+	width:500px;
+	height:400px;
+	display:inline-block;
+	text-align:left;
+	font-size: 20px;
 
 
 }
 
 
+#image img {
+	float:right;
+
+}
